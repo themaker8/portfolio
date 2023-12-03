@@ -1,5 +1,3 @@
-import Navbar from "./Navbar";
-import data from "./assets/data";
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Contact from "./Contact";
 import Home from "./Home";
